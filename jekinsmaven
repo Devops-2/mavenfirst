@@ -1,0 +1,6 @@
+node {
+stage ('Maven Build')
+{
+sh "echo 'Maven Build Stage' "
+}
+}
